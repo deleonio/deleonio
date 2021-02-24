@@ -1,4 +1,19 @@
-### Hi there 👋
+# 👋 Hey, I'm Martin
+
+## Web Developer 🕸️
+
+- 🔭 Currently working on [@leanup](https://github.com/leanupjs/leanup)
+- 🔭 Currently working on [DiPA](https://github.com/DiPA-Projekt)
+
+### My Stack
+
+[![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://typescriptlang.org)
+[![](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=fff)](https://reactjs.org)
+[![](https://img.shields.io/badge/-Preact-673ab8?logo=react&logoColor=fff)](https://preactjs.com)
+[![](https://img.shields.io/badge/-Sevlte-FF3E00?logo=svelte&logoColor=fff)](https://svelte.dev)
+[![](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)](https://tailwindcss.com)
+
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=deleonio&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **deleonio/deleonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
