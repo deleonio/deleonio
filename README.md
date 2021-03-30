@@ -2,8 +2,8 @@
 
 ## Web Developer 🕸️
 
-- 🔭 Currently working on [@leanup](https://github.com/leanupjs/leanup)
-- 🔭 Currently working on [DiPA](https://github.com/DiPA-Projekt)
+- 🔭 Learning by working on [@leanup](https://github.com/leanupjs/leanup)
+- 🔭 Learning by working on [DiPA](https://github.com/DiPA-Projekt)
 
 ### My Stack
 
@@ -12,6 +12,7 @@
 [![](https://img.shields.io/badge/-Preact-673ab8?logo=react&logoColor=fff)](https://preactjs.com)
 [![](https://img.shields.io/badge/-Sevlte-FF3E00?logo=svelte&logoColor=fff)](https://svelte.dev)
 [![](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)](https://tailwindcss.com)
+[![](https://img.shields.io/badge/-WindiCSS-38B2ff?logo=tailwind-css&logoColor=fff)](https://windicss.org)
 
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=deleonio&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
