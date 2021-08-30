@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Martin
 
-## Archtect & Developer 🕸️
+## Architect & Developer 🕸️
 
 - 🔭 Learning by working on [@leanup](https://github.com/leanupjs/leanup)
 - 🔭 Learning by working on [DiPA](https://github.com/DiPA-Projekt)
