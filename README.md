@@ -2,7 +2,8 @@
 
 ## Architect & Developer 🕸️
 
-- 🔭 Learning by working on [@leanup](https://github.com/leanupjs/leanup)
+- 🔭 Learning by working on [@leanup](https://github.com/leanupjs)
+- 🔭 Learning by working on [@public-ui](https://github.com/public-ui)
 - 🔭 Learning by working on [DiPA](https://github.com/DiPA-Projekt)
 
 ### My Stack
