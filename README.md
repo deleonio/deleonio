@@ -15,7 +15,10 @@
 [![](https://img.shields.io/badge/-Preact-673ab8?logo=react&logoColor=fff)](https://preactjs.com)
 [![](https://img.shields.io/badge/-Solid-4D81BB?logo=react&logoColor=fff)](https://solidjs.com)
 
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=deleonio&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Martin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deleonio&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deleonio&layout=compact&theme=github_dark)
 
 <!--
 **deleonio/deleonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
